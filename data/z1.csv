@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS "blood"(
+"Recency (months)" TEXT, "Frequency (times)" TEXT, "Monetary (c.c. blood)" TEXT, "Time (months)" TEXT,
+ "whether he/she donated blood in March 2007" TEXT);
